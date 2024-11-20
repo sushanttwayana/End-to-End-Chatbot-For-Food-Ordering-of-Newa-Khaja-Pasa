@@ -44,5 +44,5 @@ An end-to-end **Conversational AI System** that integrates **Dialogflow**, **Fas
 
 ### Frontend view
 
-![image](https://github.com/user-attachments/assets/da86b80b-9f7f-40ce-a50e-3215e2cf0f5b)
+![image](https://github.com/user-attachments/assets/c5d23263-3789-4ce7-b646-0f0ceb65ce2e)
 
