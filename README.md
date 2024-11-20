@@ -1,6 +1,7 @@
 # Conversational AI System with Web Interface  
 
-![Chatbot Banner](https://via.placeholder.com/1200x400)  
+![image](https://github.com/user-attachments/assets/9607c822-af84-4763-bcea-61218e15dc73)
+
 
 An end-to-end **Conversational AI System** that integrates **Dialogflow**, **FastAPI**, and **MySQL**, paired with a simple webpage built using **HTML** and **CSS** for seamless interaction. This project enables dynamic order management, real-time status updates, and store information queries, offering users a smooth and intuitive experience.  
 
