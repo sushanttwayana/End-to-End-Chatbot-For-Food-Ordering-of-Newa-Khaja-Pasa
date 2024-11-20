@@ -42,4 +42,7 @@ An end-to-end **Conversational AI System** that integrates **Dialogflow**, **Fas
 - Dialogflow account  
 - A web browser  
 
+### Frontend view
+
+![image](https://github.com/user-attachments/assets/da86b80b-9f7f-40ce-a50e-3215e2cf0f5b)
 
